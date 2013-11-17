@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1384707831 source:e:\cloud\github\asd\residenze\main.c
+	<stdio.h>
+	<stdlib.h>
+	"residenze.h"
+
+1384707723 source:e:\cloud\github\asd\residenze\residenze.c
+	<stdio.h>
+	<stdlib.h>
+	"residenze.h"
+
+1384707072 e:\cloud\github\asd\residenze\residenze.h
+	<stdio.h>
+	<stdlib.h>
+	"vie.h"
+
+1384705863 e:\cloud\github\asd\residenze\vie.h
+	<stdio.h>
+	<stdlib.h>
+
+1384706227 source:e:\cloud\github\asd\residenze\vie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vie.h"
+
