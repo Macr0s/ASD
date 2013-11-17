@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384337673 source:/home/matteo/Dropbox/Università/ASD/Programmazione C/Superenalotto/main.c
+	<stdio.h>
+	<stdlib.h>
+

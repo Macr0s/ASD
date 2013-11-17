@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1384335859 source:/home/matteo/Dropbox/Università/ASD/Programmazione C/Ristorazione Roma Tre/main.c
+	<stdio.h>
+	"ordinazione.h"
+
+1384280459 /home/matteo/Dropbox/Università/ASD/Programmazione C/Ristorazione Roma Tre/ordinazione.h
+
+1384280459 source:/home/matteo/Dropbox/Università/ASD/Programmazione C/Ristorazione Roma Tre/ordinazione.c
+	<stdlib.h>
+	<stdio.h>
+	"ordinazione.h"
+
