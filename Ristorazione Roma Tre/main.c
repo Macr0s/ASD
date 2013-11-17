@@ -3,8 +3,6 @@
 
 int main(int argc, const char * argv[])
 {
-    // 1 tua 10 y sorella 20 n 2 oddi 12 y salvoni 17 n 6 oddi 12 y salvoni 17 n  3 vin 10 y diesel 30 n 1 2 3 17
-    // 3 vin 10 y diesel 30 n 1 tua 10 y sorella 20 n 2 oddi 12 y salvoni 17 n 1 2 3 17
     pordinazione p = NULL;
 
     stampa(p);
