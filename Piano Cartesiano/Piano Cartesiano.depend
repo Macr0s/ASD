@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1384700760 source:e:\cloud\github\asd\piano cartesiano\pianocartesiano.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pianocartesiano.h"
+
+1384700756 e:\cloud\github\asd\piano cartesiano\pianocartesiano.h
+	<stdio.h>
+	<stdlib.h>
+
+1384697344 source:e:\cloud\github\asd\piano cartesiano\main.c
+	<stdio.h>
+	<stdlib.h>
+
